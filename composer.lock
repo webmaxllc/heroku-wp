@@ -4,8 +4,8 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "d0996775ba891840a9271ec1464ea39e",
-    "content-hash": "15f5046526a602c033ab55a531afe332",
+    "hash": "9612b340f6fcbc0613f412d9862b8482",
+    "content-hash": "66d272c8a3682a64ff790e16e07d54d1",
     "packages": [
         {
             "name": "WordPress/WordPress",
@@ -1599,16 +1599,16 @@
         },
         {
             "name": "wp-cli/php-cli-tools",
-            "version": "v0.11.1",
+            "version": "v0.11.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/wp-cli/php-cli-tools.git",
-                "reference": "5311a4b99103c0505db015a334be4952654d6e21"
+                "reference": "6d231e5538b2c0db909b2cb49d30a45faf20069a"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/wp-cli/php-cli-tools/zipball/5311a4b99103c0505db015a334be4952654d6e21",
-                "reference": "5311a4b99103c0505db015a334be4952654d6e21",
+                "url": "https://api.github.com/repos/wp-cli/php-cli-tools/zipball/6d231e5538b2c0db909b2cb49d30a45faf20069a",
+                "reference": "6d231e5538b2c0db909b2cb49d30a45faf20069a",
                 "shasum": ""
             },
             "require": {
@@ -1645,7 +1645,7 @@
                 "cli",
                 "console"
             ],
-            "time": "2016-02-08 14:34:01"
+            "time": "2017-02-15 12:17:55"
         },
         {
             "name": "wp-cli/wp-cli",
@@ -1755,6 +1755,46 @@
             "homepage": "https://wordpress.org/plugins/authy-two-factor-authentication/"
         },
         {
+            "name": "wpackagist-plugin/breadcrumb-navxt",
+            "version": "5.6.0",
+            "source": {
+                "type": "svn",
+                "url": "https://plugins.svn.wordpress.org/breadcrumb-navxt/",
+                "reference": "tags/5.6.0"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://downloads.wordpress.org/plugin/breadcrumb-navxt.5.6.0.zip",
+                "reference": null,
+                "shasum": null
+            },
+            "require": {
+                "composer/installers": "~1.0"
+            },
+            "type": "wordpress-plugin",
+            "homepage": "https://wordpress.org/plugins/breadcrumb-navxt/"
+        },
+        {
+            "name": "wpackagist-plugin/contact-form-7",
+            "version": "4.6.1",
+            "source": {
+                "type": "svn",
+                "url": "https://plugins.svn.wordpress.org/contact-form-7/",
+                "reference": "tags/4.6.1"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://downloads.wordpress.org/plugin/contact-form-7.4.6.1.zip",
+                "reference": null,
+                "shasum": null
+            },
+            "require": {
+                "composer/installers": "~1.0"
+            },
+            "type": "wordpress-plugin",
+            "homepage": "https://wordpress.org/plugins/contact-form-7/"
+        },
+        {
             "name": "wpackagist-plugin/jetpack",
             "version": "4.6",
             "source": {
@@ -1773,6 +1813,46 @@
             },
             "type": "wordpress-plugin",
             "homepage": "https://wordpress.org/plugins/jetpack/"
+        },
+        {
+            "name": "wpackagist-plugin/master-slider",
+            "version": "2.9.5",
+            "source": {
+                "type": "svn",
+                "url": "https://plugins.svn.wordpress.org/master-slider/",
+                "reference": "tags/2.9.5"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://downloads.wordpress.org/plugin/master-slider.2.9.5.zip",
+                "reference": null,
+                "shasum": null
+            },
+            "require": {
+                "composer/installers": "~1.0"
+            },
+            "type": "wordpress-plugin",
+            "homepage": "https://wordpress.org/plugins/master-slider/"
+        },
+        {
+            "name": "wpackagist-plugin/option-tree",
+            "version": "2.6.0",
+            "source": {
+                "type": "svn",
+                "url": "https://plugins.svn.wordpress.org/option-tree/",
+                "reference": "tags/2.6.0"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://downloads.wordpress.org/plugin/option-tree.2.6.0.zip",
+                "reference": null,
+                "shasum": null
+            },
+            "require": {
+                "composer/installers": "~1.0"
+            },
+            "type": "wordpress-plugin",
+            "homepage": "https://wordpress.org/plugins/option-tree/"
         },
         {
             "name": "wpackagist-plugin/redis-cache",
