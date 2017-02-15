@@ -10,7 +10,9 @@ cp -R public/* tmp/public.building
 
 # CUSTOM: Copy theme into themes folder...
 mkdir -p tmp/public.building/wp-content/themes/bizone
+mkdir -p tmp/public.building/wp-content/plugins/js_composer
 cp -R theme/* tmp/public.building/wp-content/themes/bizone
+cp -R js_composer/* temp/public.building/wp-content/plugins/js_composer
 
 # Move built web dir into place
 mkdir -p public.built
