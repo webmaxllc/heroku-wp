@@ -8,6 +8,10 @@ mkdir -p tmp/public.building
 cp -R vendor/WordPress/WordPress/* tmp/public.building
 cp -R public/* tmp/public.building
 
+# CUSTOM: Copy theme into themes folder...
+mkdir -p tmp/public.building/wp-content/themes/bizone
+cp -R theme/* tmp/public.building/wp-content/themes/bizone
+
 # Move built web dir into place
 mkdir -p public.built
 mv public.built tmp/public.old && mv tmp/public.building public.built

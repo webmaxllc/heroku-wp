@@ -1,0 +1,129 @@
+@import "../ionicons/css/ionicons.min.css";
+.dashicons-bravotheme{
+    background: url("../img/Logo.jpg") no-repeat ;
+    background-size: 26px;
+    background-position: center center;
+}
+#adminmenu a.menu-top.toplevel_page_ot-theme-options
+{
+    /*color: #FF686E;*/
+    background: #1F2D3A;
+    text-shadow: 0 1px 1px rgba(0, 0, 0, 0.8);
+}
+#adminmenu a.current.menu-top.toplevel_page_ot-theme-options
+{
+    /*color: #fac11c;*/
+}
+#adminmenu li:hover a.menu-top.toplevel_page_ot-theme-options{
+    background: #111;
+}
+
+
+#adminmenu div.wp-menu-image.dashicons-groups-blue:before{
+    color: #2EA2CC;
+    content: "\f307";
+}
+
+#adminmenu div.wp-menu-image.dashicons-location-yl:before{
+    color: #FAC11C;
+    content: "\f230";
+}
+.type-radio-image .option-tree-ui-radio-images img{
+    max-width: 100%;
+}
+#option-tree-settings-api .type-radio-image .option-tree-ui-radio-images img{
+    border-width: 2px;
+}
+
+
+#option-tree-settings-api .type-radio-image .option-tree-ui-radio-images img.option-tree-ui-radio-image-selected {
+
+    border-width: 3px;
+    border-color: #FF003A;
+}
+/* Option tree image radio*/
+#setting_product_style .option-tree-ui-radio-images{
+    width: 20%;
+    float: left;
+    padding: 0px 5px;
+    height: 230px;
+}
+
+.dashicons-bravo-layout:before{
+    font-family: "Ionicons";
+    speak: none;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    text-rendering: auto;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    content: "\f318";
+    display: inline-block;
+}
+#adminmenu div.wp-menu-image.dashicons-bravo-layout:before
+{
+    color: rgb(239, 64, 64);
+
+}
+
+#adminmenu div.wp-menu-image.dashicons-bravo-portfolio:before
+{
+    content: "\f3ea";
+    font-family: "Ionicons";
+    speak: none;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    text-rendering: auto;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    display: inline-block;
+    color: rgb(97, 147, 239);
+}
+
+
+.wp-admin #option-tree-header #option-tree-logo a:before
+{
+    content: "";
+    display: none;
+}
+.wp-admin #option-tree-header #option-tree-logo a img{
+    height: 48px;
+}
+.wp-admin #option-tree-header #option-tree-logo a{
+    height: auto;
+    text-align: center;
+    border-right: 0px;
+    margin-right: 10px;
+}
+.wp-admin #option-tree-options-layouts-form{
+    top: auto;
+    bottom: -54px;
+}
+.wp-admin .wrap.settings-wrap .ui-tabs-nav li a
+{
+    color: #818181;
+}
+.wp-admin #option-tree-header #option-tree-version span, #option-tree-header #theme-version span{
+    border-left: 0px;
+    font-size: 25px;
+    margin-top: 13px;
+    font-weight: bold;
+    color: white;
+}
+.wp-admin #option-tree-header li{
+
+    padding: 14px 0px;
+}
+.wp-admin  .wrap.settings-wrap .ui-tabs-nav li.ui-state-active a
+{
+    border-bottom-color:transparent ;
+}
+
+body #option-tree-header li#option-tree-logo:hover
+{
+    background: #333;
+}
