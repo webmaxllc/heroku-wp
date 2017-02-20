@@ -4,8 +4,8 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "59404d4846e290ef64463986ebb99a71",
-    "content-hash": "d9466b51035bedd49312413071e09b3a",
+    "hash": "57593a845e51343a53554887e46a940a",
+    "content-hash": "2c1ae5a868c7afc22a715b2661d90592",
     "packages": [
         {
             "name": "WordPress/WordPress",
@@ -1793,6 +1793,26 @@
             },
             "type": "wordpress-plugin",
             "homepage": "https://wordpress.org/plugins/contact-form-7/"
+        },
+        {
+            "name": "wpackagist-plugin/master-slider",
+            "version": "2.9.5",
+            "source": {
+                "type": "svn",
+                "url": "https://plugins.svn.wordpress.org/master-slider/",
+                "reference": "tags/2.9.5"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://downloads.wordpress.org/plugin/master-slider.2.9.5.zip",
+                "reference": null,
+                "shasum": null
+            },
+            "require": {
+                "composer/installers": "~1.0"
+            },
+            "type": "wordpress-plugin",
+            "homepage": "https://wordpress.org/plugins/master-slider/"
         },
         {
             "name": "wpackagist-plugin/option-tree",
