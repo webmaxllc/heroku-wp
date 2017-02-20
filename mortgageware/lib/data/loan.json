@@ -1,0 +1,308 @@
+{
+  "sale_price": 0,
+  "loan_amount": 0,
+  "loan_term": 0,
+  "loan_type": 0,
+  "num_units": 0,
+  "last_step_completed": 1,
+  "property_type": 0,
+  "residency_type": 0,
+  "title_company1": "",
+  "title_company2": "",
+  "title_manner": "",
+  "has_realtor": false,
+  "realtor_name": "",
+  "realtor_company": "",
+  "realtor_phone": "",
+  "property_location": {
+    "address1": "",
+    "zipcode": "",
+    "created": "",
+    "state": {
+      "id": 39
+    },
+    "city": ""
+  },
+  "loan_officer": {
+    "id": 6
+  },
+  "borrower": {
+    "first_name": "Daniel",
+    "last_name": "Alvare",
+    "email": "dan.alvare@webmaxco.com",
+    "middle_initial": "J",
+    "suffix": "Jr",
+    "phone_home": "(111) 111-1111",
+    "ssn": "111-11-1111",
+    "birth_date": "1980-01-01T00:00:00+0000",
+    "years_of_school": 18,
+    "marital_status": 1,
+    "citizen_status": "0",
+    "location": {
+      "months_at_location": 0,
+      "created": "2015-10-21T14:18:52+0000",
+      "location": {
+        "address1": "30 Leeds Point Road",
+        "zipcode": "08205",
+        "created": "2015-10-21T14:18:52+0000",
+        "state": {
+          "id": 25
+        },
+        "city": "Galloway"
+      },
+      "years_at_location": 1,
+      "own_residence": true
+    },
+    "previous_location": [
+      {
+        "months_at_location": 0,
+        "created": "2015-10-21T14:18:54+0000",
+        "location": {
+          "address1": "4260 West Ave",
+          "zipcode": "08223",
+          "created": "2015-10-21T14:18:54+0000",
+          "state": {
+            "id": 25
+          },
+          "city": "Ocean City"
+        },
+        "years_at_location": 2,
+        "own_residence": false
+      }
+    ],
+    "ethnicity": 0,
+    "race": 4,
+    "is_male": true,
+    "govt_monitoring_opt_out": false,
+    "declaration_outstanding_judgement": false,
+    "declaration_bankruptcy": false,
+    "declaration_forclosure": false,
+    "declaration_lawsuit": false,
+    "declaration_forclosure_obligation": false,
+    "declaration_in_default": false,
+    "declaration_alimony_child_support": false,
+    "declaration_down_payment_borrowed": false,
+    "declaration_note_endorser": false,
+    "declaration_us_citizen": true,
+    "declaration_resident_alien": false,
+    "declaration_primary_residence": true,
+    "declaration_ownership_within_three_years": false,
+    "initials": "DJA",
+    "employment": [
+      {
+        "employer_name": "WebMax",
+        "employer_phone": "(555) 555-5555",
+        "title": "Software",
+        "start_date": "2011-10-01T00:00:00+0000",
+        "self_employed": false,
+        "years_employed": 10,
+        "end_date": "2015-10-21T00:00:00+0000",
+        "location": {
+          "address1": "900 Route 168",
+          "zipcode": "08012",
+          "created": "2015-10-21T14:26:12+0000",
+          "state": {
+            "id": 25
+          },
+          "city": "Turnersville"
+        }
+      }
+    ],
+    "employed": true,
+    "asset_account": [
+      {
+        "institution_name": "PNC",
+        "type": 0,
+        "account_number": "1232131",
+        "balance": 20000
+      },
+      {
+        "institution_name": "TD",
+        "type": 2,
+        "account_number": "afdsfadsf",
+        "balance": 10000
+      }
+    ],
+    "asset_realestate": [
+      {
+        "market_value": 300000,
+        "mortgage_amount": 120000,
+        "mortgage_payment": 2300,
+        "ins_tax_exp": 8000,
+        "location": {
+          "address1": "30 Leeds Point Road",
+          "zipcode": "08205",
+          "created": "2015-10-21T14:27:31+0000",
+          "state": {
+            "id": 25
+          },
+          "city": "Galloway"
+        }
+      }
+    ],
+    "income_monthly": [
+      {
+        "base": 15000,
+        "overtime": 100,
+        "bonus": 99,
+        "commission": 98,
+        "interest": 97,
+        "rent_net": 96,
+        "other": 95
+      }
+    ],
+    "income_other": [
+
+    ],
+    "dependents": true,
+    "dependents_number": 2,
+    "dependents_ages": "8,6"
+  },
+  "co_borrower": [
+    {
+      "first_name": "Michael",
+      "last_name": "Alvare",
+      "email": "dan.alvare+1@webmaxco.com",
+      "middle_initial": "P",
+      "suffix": "Sr",
+      "phone_home": "(222) 222-2222",
+      "ssn": "222-22-2222",
+      "birth_date": "1961-01-17T00:00:00+0000",
+      "years_of_school": 18,
+      "marital_status": 0,
+      "citizen_status": "0",
+      "location": {
+        "months_at_location": 0,
+        "created": "2015-10-21T14:18:54+0000",
+        "location": {
+          "address1": "102 Carl Road",
+          "zipcode": "08270",
+          "created": "2015-10-21T14:18:54+0000",
+          "state": {
+            "id": 25
+          },
+          "city": "Corbin City"
+        },
+        "years_at_location": 1,
+        "own_residence": true
+      },
+      "previous_location": [
+
+      ],
+      "govt_monitoring_opt_out": true,
+      "declaration_outstanding_judgement": true,
+      "declaration_bankruptcy": true,
+      "declaration_forclosure": true,
+      "declaration_lawsuit": true,
+      "declaration_forclosure_obligation": true,
+      "declaration_in_default": true,
+      "declaration_alimony_child_support": true,
+      "declaration_down_payment_borrowed": true,
+      "declaration_note_endorser": true,
+      "declaration_us_citizen": true,
+      "declaration_resident_alien": false,
+      "declaration_primary_residence": true,
+      "declaration_ownership_within_three_years": true,
+      "initials": "MPA",
+      "employment": [
+        {
+          "employer_name": "Atlantic County Special Services",
+          "employer_phone": "(333) 333-3333",
+          "title": "Maintenance Manager",
+          "start_date": "2010-10-01T00:00:00+0000",
+          "self_employed": false,
+          "years_employed": 20,
+          "end_date": "2015-10-21T00:00:00+0000",
+          "location": {
+            "address1": "900 Rt 50",
+            "zipcode": "08012",
+            "created": "2015-10-21T14:26:12+0000",
+            "state": {
+              "id": 25
+            },
+            "city": "Mays landing"
+          }
+        }
+      ],
+      "employed": true,
+      "declaration_ownership_within_three_years_property_type": 1,
+      "declaration_ownership_within_three_years_property_title": 0,
+      "declaration_outstanding_judgement_details": "extra details",
+      "declaration_bankruptcy_details": "extra details",
+      "declaration_forclosure_details": "extra details",
+      "declaration_lawsuit_details": "extra details",
+      "declaration_forclosure_obligation_details": "extra details",
+      "declaration_in_default_details": "extra details",
+      "declaration_alimony_child_support_alimony": 466,
+      "declaration_alimony_child_support_child_support": 333,
+      "declaration_alimony_child_support_separate_maintenance": 555,
+      "declaration_down_payment_borrowed_details": "extra details",
+      "declaration_note_endorser_details": "extra details",
+      "asset_account": [
+        {
+          "institution_name": "PNC Savings",
+          "type": 1,
+          "account_number": "asagdfsf",
+          "balance": 50000
+        }
+      ],
+      "asset_realestate": [
+
+      ],
+      "income_monthly": [
+        {
+          "base": 10000,
+          "overtime": 1000,
+          "bonus": 999,
+          "commission": 998,
+          "interest": 997,
+          "rent_net": 996,
+          "other": 995
+        }
+      ],
+      "income_other": [
+
+      ],
+      "dependents": false,
+      "dependents_number": 0,
+      "declaration_alimony_child_support_details": "Alimony: $466 Child Support: $333 Separate Maintenance: $555"
+    }
+  ],
+  "completed": true,
+  "created": "2015-10-21T14:18:52+0000",
+  "modified": "2015-10-21T14:43:11+0000",
+  "is_prequal": false,
+  "completed_date": "2015-10-21T14:43:10+0000",
+  "agreement_one": true,
+  "agreement_two": true,
+  "agreement_three": false,
+  "expense_housing": {
+    "rent": 500,
+    "mortgage": 1200,
+    "other_financial": 50,
+    "insurance_hazard": 100,
+    "insurance_mortgage": 120,
+    "tax_real_estate": 60,
+    "hoa_dues": 100,
+    "other": 30
+  },
+  "comments": "my comments",
+  "site": {
+    "id": 1
+  },
+  "status": 1,
+  "deleted": false,
+  "status_date": "2015-10-21T14:43:10+0000",
+  "lock_status": 1,
+  "property_year_built": 1920,
+  "sent_to_los": false,
+  "referral_source": [
+
+  ],
+  "lennar_home": true,
+  "lennar_community": {
+    "id": 1
+  },
+  "lennar_builder_name": "Lennar",
+  "personal_info_sharing": false
+}

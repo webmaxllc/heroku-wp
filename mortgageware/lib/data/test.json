@@ -1,0 +1,8 @@
+{"loan_type":"0","borrower":{
+  "first_name":"Zachary","middle_initial":"","last_name":"Rosenberg","suffix":"","location":
+  {"location":
+  {"address1":"18 Palmwood Ave","city":"Cherry Hill","state":
+  {"id":"31"},"zipcode":"08003"
+  },"years_at_location":"12","months_at_location":"0","created":"2016-05-10T16:04:47+0000"
+  },"primary_phone":"(856) 924-0869","email":"zgr024@gmail.com","ssn":"102-61-0652","dob":"01\/08\/1980","years_of_school":"12","marital_status":"1","own_residence":"0","dependents":"0","num_dependents":"","ages_dependents":""
+},"action":"mw_load_step_ajax","step":"2","last_step_completed":1,"site_id":2}
