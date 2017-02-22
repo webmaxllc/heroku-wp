@@ -143,6 +143,7 @@ if ( !empty( $_ENV['AWS_S3_URL'] ) ) {
 	define( 'S3_UPLOADS_KEY',    urldecode( $_awssettings['user'] ) );
 	define( 'S3_UPLOADS_SECRET', urldecode( $_awssettings['pass'] ) );
 	define( 'S3_UPLOADS_BUCKET', trim( $_awssettings['path'], '/' ) );
+	define( 'S3_UPLOADS_HTTP_CACHE_CONTROL', 30 * 24 * 60 * 60 );
 
 	$_awsmatch = array();
 	if ( preg_match( '/^s3(-|\.dualstack\.)([0-9a-z-]+)\.amazonaws\.com$/', $_awssettings['host'], $_awsmatch ) ) {
