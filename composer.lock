@@ -4,8 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "59404d4846e290ef64463986ebb99a71",
-    "content-hash": "d9466b51035bedd49312413071e09b3a",
+    "content-hash": "cf99497f62c9ef0699e647f6ac3085f0",
     "packages": [
         {
             "name": "WordPress/WordPress",
@@ -104,7 +103,7 @@
                 "ssl",
                 "tls"
             ],
-            "time": "2016-11-02 18:11:27"
+            "time": "2016-11-02T18:11:27+00:00"
         },
         {
             "name": "composer/composer",
@@ -181,7 +180,7 @@
                 "dependency",
                 "package"
             ],
-            "time": "2017-01-27 17:23:42"
+            "time": "2017-01-27T17:23:42+00:00"
         },
         {
             "name": "composer/installers",
@@ -288,7 +287,7 @@
                 "zend",
                 "zikula"
             ],
-            "time": "2016-08-13 20:53:52"
+            "time": "2016-08-13T20:53:52+00:00"
         },
         {
             "name": "composer/semver",
@@ -350,7 +349,7 @@
                 "validation",
                 "versioning"
             ],
-            "time": "2016-08-30 16:08:34"
+            "time": "2016-08-30T16:08:34+00:00"
         },
         {
             "name": "composer/spdx-licenses",
@@ -411,20 +410,20 @@
                 "spdx",
                 "validator"
             ],
-            "time": "2016-09-28 07:17:45"
+            "time": "2016-09-28T07:17:45+00:00"
         },
         {
             "name": "humanmade/s3-uploads",
-            "version": "v1.1.0",
+            "version": "v2.0.0-beta2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/humanmade/S3-Uploads.git",
-                "reference": "9cb765284e7407d7ad2309a64dd8e5e13db258b2"
+                "reference": "cde95df1abbeea049f79ca6db80b385986ca1a0b"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/humanmade/S3-Uploads/zipball/9cb765284e7407d7ad2309a64dd8e5e13db258b2",
-                "reference": "9cb765284e7407d7ad2309a64dd8e5e13db258b2",
+                "url": "https://api.github.com/repos/humanmade/S3-Uploads/zipball/cde95df1abbeea049f79ca6db80b385986ca1a0b",
+                "reference": "cde95df1abbeea049f79ca6db80b385986ca1a0b",
                 "shasum": ""
             },
             "require": {
@@ -447,7 +446,7 @@
             "keywords": [
                 "wordpress"
             ],
-            "time": "2016-04-29 10:00:39"
+            "time": "2016-08-09T11:31:04+00:00"
         },
         {
             "name": "justinrainbow/json-schema",
@@ -513,7 +512,7 @@
                 "json",
                 "schema"
             ],
-            "time": "2016-12-22 16:43:46"
+            "time": "2016-12-22T16:43:46+00:00"
         },
         {
             "name": "mustache/mustache",
@@ -559,7 +558,7 @@
                 "mustache",
                 "templating"
             ],
-            "time": "2016-07-31 06:18:27"
+            "time": "2016-07-31T06:18:27+00:00"
         },
         {
             "name": "mustangostang/spyc",
@@ -609,7 +608,7 @@
                 "yaml",
                 "yml"
             ],
-            "time": "2016-10-21 00:03:34"
+            "time": "2016-10-21T00:03:34+00:00"
         },
         {
             "name": "nb/oxymel",
@@ -650,7 +649,7 @@
             "keywords": [
                 "xml"
             ],
-            "time": "2013-02-24 15:01:54"
+            "time": "2013-02-24T15:01:54+00:00"
         },
         {
             "name": "predis/predis",
@@ -700,7 +699,7 @@
                 "predis",
                 "redis"
             ],
-            "time": "2016-06-16 16:22:20"
+            "time": "2016-06-16T16:22:20+00:00"
         },
         {
             "name": "psr/log",
@@ -747,7 +746,7 @@
                 "psr",
                 "psr-3"
             ],
-            "time": "2016-10-10 12:19:37"
+            "time": "2016-10-10T12:19:37+00:00"
         },
         {
             "name": "ramsey/array_column",
@@ -792,7 +791,7 @@
                 "array_column",
                 "column"
             ],
-            "time": "2015-03-20 22:07:39"
+            "time": "2015-03-20T22:07:39+00:00"
         },
         {
             "name": "rmccue/requests",
@@ -841,7 +840,7 @@
                 "iri",
                 "sockets"
             ],
-            "time": "2016-10-13 00:11:37"
+            "time": "2016-10-13T00:11:37+00:00"
         },
         {
             "name": "seld/cli-prompt",
@@ -889,7 +888,7 @@
                 "input",
                 "prompt"
             ],
-            "time": "2016-04-18 09:31:41"
+            "time": "2016-04-18T09:31:41+00:00"
         },
         {
             "name": "seld/jsonlint",
@@ -935,7 +934,7 @@
                 "parser",
                 "validator"
             ],
-            "time": "2016-11-14 17:59:58"
+            "time": "2016-11-14T17:59:58+00:00"
         },
         {
             "name": "seld/phar-utils",
@@ -979,7 +978,7 @@
             "keywords": [
                 "phra"
             ],
-            "time": "2015-10-13 18:44:15"
+            "time": "2015-10-13T18:44:15+00:00"
         },
         {
             "name": "symfony/config",
@@ -1035,7 +1034,7 @@
             ],
             "description": "Symfony Config Component",
             "homepage": "https://symfony.com",
-            "time": "2017-02-05 10:11:19"
+            "time": "2017-02-05T10:11:19+00:00"
         },
         {
             "name": "symfony/console",
@@ -1096,7 +1095,7 @@
             ],
             "description": "Symfony Console Component",
             "homepage": "https://symfony.com",
-            "time": "2017-02-06 12:04:06"
+            "time": "2017-02-06T12:04:06+00:00"
         },
         {
             "name": "symfony/debug",
@@ -1153,7 +1152,7 @@
             ],
             "description": "Symfony Debug Component",
             "homepage": "https://symfony.com",
-            "time": "2017-01-27 23:54:58"
+            "time": "2017-01-27T23:54:58+00:00"
         },
         {
             "name": "symfony/dependency-injection",
@@ -1216,7 +1215,7 @@
             ],
             "description": "Symfony DependencyInjection Component",
             "homepage": "https://symfony.com",
-            "time": "2017-01-27 23:54:58"
+            "time": "2017-01-27T23:54:58+00:00"
         },
         {
             "name": "symfony/event-dispatcher",
@@ -1276,7 +1275,7 @@
             ],
             "description": "Symfony EventDispatcher Component",
             "homepage": "https://symfony.com",
-            "time": "2017-01-02 20:30:24"
+            "time": "2017-01-02T20:30:24+00:00"
         },
         {
             "name": "symfony/filesystem",
@@ -1325,7 +1324,7 @@
             ],
             "description": "Symfony Filesystem Component",
             "homepage": "https://symfony.com",
-            "time": "2017-01-08 20:43:03"
+            "time": "2017-01-08T20:43:03+00:00"
         },
         {
             "name": "symfony/finder",
@@ -1374,7 +1373,7 @@
             ],
             "description": "Symfony Finder Component",
             "homepage": "https://symfony.com",
-            "time": "2017-01-02 20:30:24"
+            "time": "2017-01-02T20:30:24+00:00"
         },
         {
             "name": "symfony/polyfill-mbstring",
@@ -1433,7 +1432,7 @@
                 "portable",
                 "shim"
             ],
-            "time": "2016-11-14 01:06:16"
+            "time": "2016-11-14T01:06:16+00:00"
         },
         {
             "name": "symfony/process",
@@ -1482,7 +1481,7 @@
             ],
             "description": "Symfony Process Component",
             "homepage": "https://symfony.com",
-            "time": "2017-02-03 12:08:06"
+            "time": "2017-02-03T12:08:06+00:00"
         },
         {
             "name": "symfony/translation",
@@ -1546,7 +1545,7 @@
             ],
             "description": "Symfony Translation Component",
             "homepage": "https://symfony.com",
-            "time": "2017-01-21 16:59:38"
+            "time": "2017-01-21T16:59:38+00:00"
         },
         {
             "name": "symfony/yaml",
@@ -1595,7 +1594,7 @@
             ],
             "description": "Symfony Yaml Component",
             "homepage": "https://symfony.com",
-            "time": "2017-01-21 16:40:50"
+            "time": "2017-01-21T16:40:50+00:00"
         },
         {
             "name": "wp-cli/php-cli-tools",
@@ -1645,7 +1644,7 @@
                 "cli",
                 "console"
             ],
-            "time": "2017-02-15 12:17:55"
+            "time": "2017-02-15T12:17:55+00:00"
         },
         {
             "name": "wp-cli/wp-cli",
@@ -1712,7 +1711,7 @@
                 "cli",
                 "wordpress"
             ],
-            "time": "2017-02-01 14:20:12"
+            "time": "2017-02-01T14:20:12+00:00"
         },
         {
             "name": "wpackagist-plugin/all-in-one-seo-pack",
@@ -1879,7 +1878,8 @@
     "aliases": [],
     "minimum-stability": "stable",
     "stability-flags": {
-        "automattic/batcache": 20
+        "automattic/batcache": 20,
+        "humanmade/s3-uploads": 10
     },
     "prefer-stable": false,
     "prefer-lowest": false,

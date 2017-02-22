@@ -21,7 +21,7 @@
         "wpackagist-plugin/redis-cache": "~1",
         "wpackagist-plugin/secure-db-connection": "~1",
 
-        "humanmade/s3-uploads": "~1",
+        "humanmade/s3-uploads": "2.0.0-beta2",
         "wpackagist-plugin/authy-two-factor-authentication": "~3",
         "wpackagist-plugin/sendgrid-email-delivery-simplified": "~1",
         "wpackagist-plugin/all-in-one-seo-pack": "~2",
