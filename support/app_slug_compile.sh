@@ -14,6 +14,7 @@ mkdir -p tmp/public.building/wp-content/plugins/js_composer
 mkdir -p tmp/public.building/wp-content/plugins/envato-market
 mkdir -p tmp/public.building/wp-content/plugins/masterslider
 mkdir -p tmp/public.building/wp-content/plugins/mortgageware
+mkdir -p tmp/public.building/wp-content/plugins/amazon-web-services
 mkdir -p tmp/public.building/wp-content/plugins/amazon-s3-and-cloudfront
 cp -R theme/* tmp/public.building/wp-content/themes/bizone
 cp -R js_composer/* tmp/public.building/wp-content/plugins/js_composer
@@ -21,6 +22,7 @@ cp -R envato-market/* tmp/public.building/wp-content/plugins/envato-market
 cp -R masterslider/* tmp/public.building/wp-content/plugins/masterslider
 cp -R mortgageware/* tmp/public.building/wp-content/plugins/mortgageware
 cp -R amazon-s3-and-cloudfront/* tmp/public.building/wp-content/plugins/amazon-s3-and-cloudfront
+cp -R amazon-web-services/* tmp/public.building/wp-content/plugins/amazon-web-services
 
 # Move built web dir into place
 mkdir -p public.built
